@@ -32,6 +32,104 @@ I enjoy working with datasets, solving analytical problems, creating visualizati
 🚀 **Open to:** Data Analyst internships and opportunities to learn, contribute, and grow.
 
 ---
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shubham-zirpe-4982a8420/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn" height="35" width="45"/>
+</a>
+
+<a href="mailto:zirpeshubham75@gmail.com">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+       alt="Email" height="35" width="45"/>
+</a>
+
+<a href="https://github.com/zirpeshubham75-ui" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+       alt="GitHub" height="35" width="45"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<p align="left">
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" width="45" height="45"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+       alt="NumPy" width="45" height="45"/>
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       alt="Pandas" width="45" height="45"/>
+</a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+       alt="Matplotlib" width="45" height="45"/>
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+       alt="Seaborn" width="45" height="45"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="MySQL" width="50" height="45"/>
+</a>
+
+<!-- Microsoft Excel -->
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+       alt="Excel" width="45" height="45"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
+  <img src="https://img.icons8.com/color/48/power-bi.png"
+       alt="Power BI" width="45" height="45"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+       alt="Jupyter" width="45" height="45"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git" width="45" height="45"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub" width="45" height="45"/>
+</a>
+
+</p>
+
+---
 
 ## 🎓 Education
 
@@ -216,25 +314,6 @@ I am continuously expanding my Data Analytics and Data Science skills.
 
 </p>
 
-## Tools
-
-<p align="left">
-
-<a href="https://jupyter.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="Jupyter"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-</p>
-
----
 
 # 📂 Practice Repositories
 
