@@ -43,9 +43,10 @@ I enjoy working with datasets, solving analytical problems, creating visualizati
        alt="LinkedIn" height="35" width="45"/>
 </a>
 
+<!-- Gmail -->
 <a href="mailto:zirpeshubham75@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-       alt="Email" height="35" width="45"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png"
+       alt="Gmail" width="45" height="45"/>
 </a>
 
 <a href="https://github.com/zirpeshubham75-ui" target="_blank">
