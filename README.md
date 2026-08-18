@@ -10,7 +10,7 @@ Aspiring Data Analyst | Python | SQL | Data Visualization | Data Science Enthusi
 </p>
 
 <p align="center">
-  <img src="./profile.jpg" width="180" alt="Shubham Zirpe"/>
+  <img src="./profilee.jpg" width="180" alt="Shubham Zirpe"/>
 </p>
 
 <p align="center">
