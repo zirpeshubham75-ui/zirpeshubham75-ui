@@ -58,6 +58,8 @@ I enjoy working with datasets, solving analytical problems, creating visualizati
 
 ---
 
+
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
@@ -131,6 +133,75 @@ I enjoy working with datasets, solving analytical problems, creating visualizati
 </p>
 
 ---
+
+
+# 🛠️ Skills
+
+## Programming
+
+<p align="left">
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+</p>
+
+## Data Analysis
+
+<p align="left">
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
+</a>
+
+</p>
+
+## Data Visualization
+
+<p align="left">
+
+<a href="https://matplotlib.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+</a>
+
+<a href="https://seaborn.pydata.org/">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</a>
+
+</p>
+
+## Analytics & Business Intelligence
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Currently%20Learning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-Currently%20Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+## Statistics & Data Science
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Statistics-Learning-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-Practice-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Preprocessing-Learning-00897B?style=for-the-badge"/>
+
+</p>
+
+
 
 ## 🎓 Education
 
@@ -249,73 +320,6 @@ I am continuously expanding my Data Analytics and Data Science skills.
 
 ---
 
-# 🛠️ Skills
-
-## Programming
-
-<p align="left">
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-</p>
-
-## Data Analysis
-
-<p align="left">
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
-</a>
-
-</p>
-
-## Data Visualization
-
-<p align="left">
-
-<a href="https://matplotlib.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-</a>
-
-<a href="https://seaborn.pydata.org/">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-</a>
-
-</p>
-
-## Analytics & Business Intelligence
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Currently%20Learning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-Currently%20Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
-## Statistics & Data Science
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Statistics-Learning-4B8BBE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/EDA-Practice-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Preprocessing-Learning-00897B?style=for-the-badge"/>
-
-</p>
-
-
 # 📂 Practice Repositories
 
 ### 🐍 Python Library Practice
@@ -372,33 +376,6 @@ My long-term goal is to grow toward advanced **Data Science and Machine Learning
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shubham-zirpe-4982a8420/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:zirpeshubham75@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Email"/>
-</a>
-
-<a href="https://github.com/zirpeshubham75-ui" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub"/>
-</a>
-
-</p>
-
-📧 **Email:** [zirpeshubham75@gmail.com](mailto:zirpeshubham75@gmail.com)
-
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/shubham-zirpe-4982a8420/
-
-💻 **GitHub:**
-https://github.com/zirpeshubham75-ui
-
----
 
 # 📈 GitHub Statistics
 
